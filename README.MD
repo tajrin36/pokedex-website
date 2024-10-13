@@ -15,5 +15,5 @@ Here is my simple pokedex pokemon website. You can search any types of pokemon b
 
 ## Live Link
 
-- [Pokedex-pokemon](pokedex-pokemon-36.surge.sh)
+- [Pokedex-pokemon](https://pokedex-pokemon-36.surge.sh/)
 
